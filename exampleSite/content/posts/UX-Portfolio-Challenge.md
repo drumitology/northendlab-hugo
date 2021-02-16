@@ -2,7 +2,7 @@
 title = "The River Manchester website blunder"
 image = "/images/post/post-1.jpg"
 author = "Juan Franco Yu"
-date = 2019-11-07T05:00:00Z
+date = 2021-16-02T05:00:00Z
 description = "This is meta description"
 categories = ["Meta Data"]
 type = "post"
@@ -16,9 +16,7 @@ A charity aimed at helping domestically-abused women, The River Manchester's web
 
 When users want to know what the button does, they'll read this in the modal:
 
->> What's this? Clicking the "Get me out of here" button (or pressing the esc key on your keyboard) will direct you away from this site to a google search for "headache". It will NOT clear your browser history however and so we strongly recommend that you view this site in a Private Browsing window if you are concerned about your safety.
-
->> [Ok, got it.]
+>> What's this? Clicking the "Get me out of here" button (or pressing the esc key on your keyboard) will direct you away from this site to a google search for "headache". It will NOT clear your browser history however and so we strongly recommend that you view this site in a Private Browsing window if you are concerned about your safety. [Ok, got it.]
 
 
 The warning message tells three things:
