@@ -1,29 +1,47 @@
-############################ Default configuration #########################
 baseURL = "https://examplesite.com/"
+disqusShortname = ""
 languageCode = "en-us"
-# site title
-title = "Juan Franco Yu | UX/Product Writer"
-# theme
-theme = "northendlab-hugo"
-# post pagination
 paginate = "5"
-# post excerpt
 summaryLength = "10"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-
+theme = "northendlab-hugo"
+title = "Juan Franco Yu - UX/Product Writer"
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+[[menu.footer]]
+URL = "tools"
+name = "Tools"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 1
+[[menu.main]]
+URL = "tools"
+name = "Tools"
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
-
-########################## Plugins ######################################
-
-# css plugins
+[params]
+author = "Themefisher"
+contact_form_action = "#"
+copyright = "© Juan Franco Yu, UX/Product Writer "
+description = "This is meta description"
+google_tag_manager = ""
+home = "Home"
+logo = "images/logo.svg"
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+image = "images/banner/illustration.svg"
+title = "Noticing a dip in your website traffic?"
+[params.cookies]
+enable = true
+expire_days = 2
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
-# js plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -34,81 +52,20 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
-
-########################### Navigation ###################################
-
-# main menu
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
-
-[[menu.main]]
-URL = "tools"
-name = "Tools"
-weight = 2
-
-# footer menu
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-
-[[menu.footer]]
-URL = "tools"
-name = "Tools"
-weight = 2
-
-
-######################### Default Parameters ###########################
-[params]
-# home
-home = "Home"
-# logo
-logo = "images/logo.svg"
-# meta data
-author = "Themefisher"
-description = "This is meta description"
-# google tag manager
-google_tag_manager = "" # your id
-# contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
-# copyright
-copyright = "2021 (c) Juan Franco Yu, UX/Product Writer "
-
-# preloader
 [params.preloader]
 enable = true
-preloader = "" # use png, jpg, svg or gif format
-
-# search
+preloader = ""
 [params.search]
 enable = true
-
-# cookies
-[params.cookies]
-enable = true
-expire_days = 2
-
-####################### banner #######################################
-[params.banner]
-bgImage = "images/banner/banner-bg.svg"
-title = "Noticing a dip in your website traffic?"
-image = "images/banner/illustration.svg"
-
-
-
-############################## Social Site ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+icon = "ti-facebook"
 link = "#"
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
-icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+icon = "ti-github"
 link = "#"
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+icon = "ti-linkedin"
 link = "#"
