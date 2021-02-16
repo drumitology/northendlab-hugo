@@ -1,8 +1,7 @@
 ---
-title: "Contact Us"
-draft: false
-description : "this is meta description"
-image: "images/contact.svg"
----
+title: Contact me
+description: this is meta description
+image: images/contact.svg
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+---
+Have UX or UI-related questions for your eCommerce website? Send me an email and I'll do my best to answer within a day.
