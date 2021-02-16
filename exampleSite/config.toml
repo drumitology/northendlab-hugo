@@ -2,7 +2,7 @@
 baseURL = "https://examplesite.com/"
 languageCode = "en-us"
 # site title
-title = "Northendlab | Blog Template"
+title = "Juan Franco Yu | UX/Product Writer"
 # theme
 theme = "northendlab-hugo"
 # post pagination
@@ -15,7 +15,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 
-########################## Plugings ######################################
+########################## Plugins ######################################
 
 # css plugins
 [[params.plugins.css]]
@@ -46,7 +46,7 @@ weight = 1
 
 [[menu.main]]
 URL = "tools"
-name = "tools"
+name = "Tools"
 weight = 2
 
 # footer menu
@@ -57,7 +57,7 @@ weight = 1
 
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "Tools"
 weight = 2
 
 
@@ -75,7 +75,7 @@ google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "2021 (c) Juan Franco Yu, UX/Product Writer "
 
 # preloader
 [params.preloader]
@@ -94,7 +94,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Notice a dip in website visitors? <br> Getting complaints from your customers?"
 image = "images/banner/illustration.svg"
 
 
