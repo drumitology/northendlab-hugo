@@ -3,7 +3,7 @@ author = "Juan Franco Yu"
 categories = ["UX"]
 date = 2019-11-07T05:00:00Z
 description = "What is UX writing? Does my business really need that?"
-image = "/images/post/post-1.jpg"
+image = "/images/tools/sketch.png"
 title = "Case Study: The River Manchester website"
 type = "Blog"
 
@@ -27,7 +27,4 @@ The warning message tells three things:
    
 Now, if I'm (or someone) a domestic abuse survivor, the message would come off as tone-deaf and condescending.  
    
-Not that I'd want to wish ill to their cause, but writing something like a message like the one above would tarnish the charity's efforts and perhaps lose funding. It might also add more strain to a survivor's mental health issues — similar to what gaslighting could inflict on a person.  
-   
-   
- 
+Not that I'd want to wish ill to their cause, but writing something like a message like the one above would tarnish the charity's efforts and perhaps lose funding. It might also add more strain to a survivor's mental health issues — similar to what gaslighting could inflict on a person.
