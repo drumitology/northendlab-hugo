@@ -1,7 +1,7 @@
 ############################ Default configuration #########################
 baseURL = "https://examplesite.com/"
 languageCode = "en-us"
-# site title 
+# site title
 title = "Northendlab | Blog Template"
 # theme
 theme = "northendlab-hugo"
@@ -97,17 +97,6 @@ bgImage = "images/banner/banner-bg.svg"
 title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
 image = "images/banner/illustration.svg"
 
-
-######################## call to action ###############################
-[params.cta]
-enable = true
-image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-[params.cta.button]
-enable = true
-label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
 
 
 ############################## Social Site ##########################
