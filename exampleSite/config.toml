@@ -3,7 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
-theme = "northendlab-hugo"
+theme = "northendlab-hugo (Themefisher)"
 title = "Juan Franco Yu - UX/Product Writer"
 [[menu.footer]]
 URL = "contact"
