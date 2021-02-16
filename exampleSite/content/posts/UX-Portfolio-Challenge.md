@@ -10,7 +10,7 @@ type = "post"
 +++
 A challenge from UX writer Sherieff R.
 
-Challenge:
+**Challenge:**
 
 A charity aimed at helping domestically-abused women, The River Manchester's website's lower banner CTA and headers has some major UX issues. The flaw comes when a user clicks the "Get me out of here" button.
 
@@ -25,6 +25,6 @@ The warning message tells three things:
 2. What you're going through isn't a big deal;
 3. Use a private browsing window if you're concerned about  companies tracking your online activities.
 
-Now, if I'm (or someone) a domestic abuse survivor, the message would come off as tone deaf and condescending.
+Now, if I'm (or someone) a domestic abuse survivor, the pop-out message would come off as tone deaf and condescending.
 
 Not that I'd want to wish ill to their cause, but writing something like a message like the one above would tarnish the charity's efforts and perhaps lose funding. It might also add more strain to a survivor's mental health issues — similar to what gaslighting could inflict to a person.
