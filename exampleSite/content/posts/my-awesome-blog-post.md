@@ -1,0 +1,33 @@
++++
+author = "Juan Franco Yu"
+categories = ["UX"]
+date = 2019-11-07T05:00:00Z
+description = "What is UX writing? Does my business really need that?"
+image = "/images/post/post-1.jpg"
+title = "Case Study: The River Manchester website"
+type = "Blog"
+
++++
+A challenge from UX writer Sherieff R.
+
+**Challenge:**  
+   
+A charity aimed at helping domestically-abused women, The River Manchester's website's lower banner CTA and headers have some major UX issues. The flaw comes when a user clicks the "Get me out of here" button.  
+   
+When users want to know what the button does, they'll read this in the modal:  
+   
+ >> What's this? Clicking the "Get me out of here" button (or pressing the ESC key on your keyboard) will direct you away from this site to a google search for "headache". It will NOT clear your browser history however and so we strongly recommend that you view this site in a Private Browsing window if you are concerned about your safety. \[Ok, got it.\]  
+   
+   
+The warning message tells three things:  
+   
+ 1. You're on the wrong website, so get out of here;  
+ 2. What you're going through isn't a big deal;  
+ 3. Use a private browsing window if you're concerned about companies tracking your online activities.  
+   
+Now, if I'm (or someone) a domestic abuse survivor, the message would come off as tone-deaf and condescending.  
+   
+Not that I'd want to wish ill to their cause, but writing something like a message like the one above would tarnish the charity's efforts and perhaps lose funding. It might also add more strain to a survivor's mental health issues — similar to what gaslighting could inflict on a person.  
+   
+   
+ 
