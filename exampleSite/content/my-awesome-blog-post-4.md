@@ -1,21 +1,19 @@
 +++
 author = "Juan Franco Yu"
-categories = ["Hugo"]
+categories = ["UX Writing"]
 date = 2019-11-07T05:00:00Z
-description = "This is meta description"
+description = "A website tear-down aimed at making the web a safer place."
 image = "/images/the-river-manchester.PNG"
-title = "The River Manchester website blunder"
+title = "The River Manchester website tear-down"
 type = "post"
 
 +++
 # Real-world portfolio challenge
 
-**  
-  
-Backstory:**  
+**Backstory:**  
 Sherieff R., fellow UX writer, shares this thought experiment within the UX Writing Community.
 
-**The victim:**  
+**The victims:**  
 A charity aimed at helping domestically-abused women, The River Manchester's website's lower banner CTA and headers have some major UX issues. The flaw comes when a user clicks the "Get me out of here" button.
 
 When users want to know what the button does, they'll read this in the modal:
