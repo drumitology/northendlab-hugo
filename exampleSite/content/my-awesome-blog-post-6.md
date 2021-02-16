@@ -8,7 +8,10 @@ title = "Case Study: The River Manchester website"
 type = "Blog"
 [menu.footer]
 name = "Blog"
-weight = 3
+weight = 2
+[menu.main]
+name = "Blog"
+weight = 2
 
 +++
 This is a portfolio challenge from UX writer Sherieff R.
