@@ -1,6 +1,6 @@
 +++
 title = "My awesome blog post"
-image = "/images/post/post-1.jpg"
+image = "/images/post/post-2.jpg"
 author = "Mark Dinn"
 date = 2019-11-07T05:00:00Z
 description = "This is meta description"
