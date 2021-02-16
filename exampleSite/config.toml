@@ -94,7 +94,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Noticing a dip in website visitors? <br> Getting complaints from your customers?"
+title = "Noticing a dip in your website traffic?"
 image = "images/banner/illustration.svg"
 
 
