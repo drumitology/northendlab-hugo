@@ -8,7 +8,7 @@ title = "Juan Franco Yu - UX/Product Writer"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = "2"
 [[menu.main]]
 URL = "tools"
 name = "Tools"
@@ -16,14 +16,14 @@ weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = "1"
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Juan Franco Yu"
 contact_form_action = "#"
 copyright = "© Juan Franco Yu, UX/Product Writer "
-description = "This is meta description"
+description = "Freelance UX Writer and UI Designer. Solving complex business problems through words and design."
 google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
