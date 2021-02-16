@@ -4,11 +4,11 @@ categories = ["UX Writing"]
 date = 2019-11-07T05:00:00Z
 description = "A website tear-down aimed at making the web a safer place."
 image = "/images/the-river-manchester.PNG"
-title = "The River Manchester website tear-down"
+title = "How do you make the web a safer place?"
 type = "post"
 
 +++
-# Real-world portfolio challenge
+## Intended as a working portfolio piece
 
 **Backstory:**  
 Sherieff R., fellow UX writer, shares this thought experiment within the UX Writing Community.
