@@ -8,7 +8,7 @@ title = "How do you make the web a safer place?"
 type = "post"
 
 +++
-## Intended as a working portfolio piece
+#### Quick note: This work is intended as a working portfolio piece.
 
 **Backstory:**  
 Sherieff R., fellow UX writer, shares this thought experiment within the UX Writing Community.
