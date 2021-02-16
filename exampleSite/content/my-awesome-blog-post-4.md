@@ -8,7 +8,7 @@ title = "How do you make the web a safer place?"
 type = "post"
 
 +++
-### Find out whether your website is serving it's purpose.
+### Find out whether your website is serving its purpose.
 
 #### Quick note: This work is intended as a working portfolio piece.
 
