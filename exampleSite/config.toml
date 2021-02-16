@@ -9,18 +9,14 @@ title = "Juan Franco Yu - UX/Product Writer"
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
+[[menu.main]]
 URL = "tools"
 name = "Tools"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.main]]
-URL = "tools"
-name = "Tools"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
