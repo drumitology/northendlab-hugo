@@ -6,6 +6,9 @@ description = "What is UX writing? Does my business really need that?"
 image = "/images/the-river-manchester.PNG"
 title = "Case Study: The River Manchester website"
 type = "Blog"
+[menu.footer]
+name = "Blog"
+weight = 3
 
 +++
 This is a portfolio challenge from UX writer Sherieff R.
