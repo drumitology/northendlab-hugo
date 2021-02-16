@@ -8,11 +8,12 @@ title = "The River Manchester website blunder"
 type = "post"
 
 +++
-# A portfolio challenge from UX writer Sherieff R.
+# Real-world portfolio challenge
 
-## **The Challenge:**
+## Backstory:  
+Sherieff R., fellow UX writer, shares this thought experiment within the UX Writing Community.
 
-## A charity aimed at helping domestically-abused women, The River Manchester's website's lower banner CTA and headers have some major UX issues. The flaw comes when a user clicks the "Get me out of here" button.
+### The victim: A charity aimed at helping domestically-abused women, The River Manchester's website's lower banner CTA and headers have some major UX issues. The flaw comes when a user clicks the "Get me out of here" button.
 
 When users want to know what the button does, they'll read this in the modal:
 
