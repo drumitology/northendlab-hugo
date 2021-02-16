@@ -8,9 +8,9 @@ title = "How do you make the web a safer place?"
 type = "post"
 
 +++
-### Find out whether your website is serving its purpose.
+#### Find out whether your website is serving its purpose.
 
-#### Quick note: This work is intended as a working portfolio piece.
+_Quick note: This work is intended as a working portfolio piece._
 
 **Backstory:**  
 Sherieff R., fellow UX writer, shares this thought experiment within the UX Writing Community.
