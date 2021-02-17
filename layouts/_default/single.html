@@ -1,20 +1,17 @@
 {{ define "main" }}
 <div class="text-center section">
-  <h1 class="display-1">D'oh! It's that 404 again.</h1>
-  <h2>The page you're looking for isn't here.</h2>
-  <p>Tap the 'home' button to return to the front page</p>
+  <h2>{{ .Title | markdownify }}</h2>
+</div>
+<div class="mb-3 post-meta">
+  <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title }}</a>,
+  {{ .PublishDate.Format "Jan 2, 2006" }}, {{ range .Params.Categories }}
+  <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title }}</a>
+  {{ end }}
 </div>
 <section class="section">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto block shadow mb-5">
-        <h2>{{ .Title | markdownify }}</h2>
-        <div class="mb-3 post-meta">
-          <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title }}</a>,
-          {{ .PublishDate.Format "Jan 2, 2006" }}, {{ range .Params.Categories }}
-          <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title }}</a>
-          {{ end }}
-        </div>
         {{ if .Params.Image }}
         <img src="{{ .Params.Image | relURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
         {{ end }}
