@@ -26,7 +26,7 @@ copyright = "© Juan Franco Yu, UX/Product Writer "
 description = "Freelance UX Writer and UI Designer. Solving complex business problems through words and design."
 google_tag_manager = ""
 home = "Home"
-logo = "/images/logo.svg"
+logo = "/images/logo-1.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
