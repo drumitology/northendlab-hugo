@@ -30,7 +30,7 @@ logo = "/images/animated-logo.gif"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Contrarian Conversion Copywriter For Mission-driven Brands"
+title = "Conversion Copywriter For Mission-driven Brands"
 [params.cookies]
 enable = true
 expire_days = 2
