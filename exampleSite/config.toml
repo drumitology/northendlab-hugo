@@ -26,11 +26,11 @@ copyright = "© Juan Franco Yu, UX/Product Writer "
 description = "Freelance UX Writer and UI Designer. Solving complex business problems through words and design."
 google_tag_manager = ""
 home = "Home"
-logo = "/images/logo-1.svg"
+logo = "/images/animated-logo.gif"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Noticing a dip in your website traffic?"
+title = "Contrarian Conversion Copywriter For Mission-driven Brands"
 [params.cookies]
 enable = true
 expire_days = 2
