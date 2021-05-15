@@ -1,7 +1,7 @@
 +++
-description = "This is meta description"
+description = "Short blurb and bio of Juan Franco Yu, full-stack digital markter"
 image = "/images/22552303_1326085970853016_4227318109302460819_n.jpg"
 title = "Juan Franco Yu"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi there! Franco here. Former music teacher, turned full-stack digital marketer. I've been helping businesses in different verticals simplify their marketing campaigns and turning their digital assets into ROI-machines. I'm into behavioral and consumer psychology and always curious about why people buy.

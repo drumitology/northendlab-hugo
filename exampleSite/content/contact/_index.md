@@ -4,4 +4,4 @@ description: this is meta description
 image: images/contact.svg
 
 ---
-Have UX or UI-related questions for your eCommerce website? Send me an email and I'll do my best to answer within a day.
+Do customers cringe or respond happily to your social media posts? Send me an email and let's see if we're a working fit.
