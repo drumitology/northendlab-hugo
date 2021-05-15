@@ -22,7 +22,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Juan Franco Yu"
 contact_form_action = "#"
-copyright = "© Juan Franco Yu, UX/Product Writer "
+copyright = "© Juan Franco Yu — Full-stack Digital Marketer"
 description = "Full-stack Digital Marketer. Simplifying complex business problems using words and design."
 google_tag_manager = ""
 home = "Home"
