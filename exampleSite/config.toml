@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo (Themefisher)"
-title = "Juan Franco Yu - UX/Product Writer"
+title = "Juan Franco Yu - Fractional Digital Marketer"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -23,14 +23,14 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 author = "Juan Franco Yu"
 contact_form_action = "#"
 copyright = "© Juan Franco Yu, UX/Product Writer "
-description = "Freelance UX Writer and UI Designer. Solving complex business problems through words and design."
+description = "Full-stack Digital Marketer. Simplifying complex business problems using words and design."
 google_tag_manager = ""
 home = "Home"
 logo = "/images/logo-1.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Conversion Copywriter For Mission-driven Brands"
+title = "Full-stack Digital Marketer"
 [params.cookies]
 enable = true
 expire_days = 2
