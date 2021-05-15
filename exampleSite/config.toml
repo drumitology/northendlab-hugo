@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo (Themefisher)"
-title = "Juan Franco Yu - Fractional Digital Marketer"
+title = "Juan Franco Yu — Full-stack Digital Marketer"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
