@@ -4,7 +4,11 @@ languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo (Themefisher)"
+<<<<<<< HEAD
 title = "Full-stack Digital Marketer"
+=======
+title = "Juan Franco Yu — Full-stack Digital Marketer"
+>>>>>>> 960acd3497eb6b381053a87048d3193f3a12e765
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -28,9 +32,15 @@ google_tag_manager = ""
 home = "Home"
 logo = "/images/logo-1.svg"
 [params.banner]
+<<<<<<< HEAD
 bgImage = "images/banner/banner-bg.svg"
 image = "/images/heroo.svg"
 title = "Do customers cringe when they land on your website? It’s not your fault."
+=======
+bgImage = "/images/banner/banner-bg.svg"
+image = "/images/illustration.svg"
+title = "Do customers cringe when they land on your website? It's not your fault. "
+>>>>>>> 960acd3497eb6b381053a87048d3193f3a12e765
 [params.cookies]
 enable = true
 expire_days = 2

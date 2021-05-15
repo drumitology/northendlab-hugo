@@ -1,10 +1,17 @@
 +++
+<<<<<<< HEAD
 title = "My awesome blog post"
 image = "/images/post/post-2.jpg"
 author = "Juan Franco Yu"
+=======
+author = "Mark Dinn"
+categories = ["Meta Data"]
+>>>>>>> 960acd3497eb6b381053a87048d3193f3a12e765
 date = 2019-11-07T05:00:00Z
 description = "This is meta description"
-categories = ["Meta Data"]
+draft = true
+image = "/images/post/post-2.jpg"
+title = "My awesome blog post"
 type = "post"
 
 +++
