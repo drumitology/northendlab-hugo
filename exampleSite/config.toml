@@ -28,8 +28,8 @@ google_tag_manager = ""
 home = "Home"
 logo = "/images/logo-1.svg"
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+bgImage = "/images/banner/banner-bg.svg"
+image = "/images/hero-image.svg"
 title = "Do customers cringe when they land on your website? It's not your fault. "
 [params.cookies]
 enable = true
