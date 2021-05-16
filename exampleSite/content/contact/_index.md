@@ -4,4 +4,4 @@ description: this is meta description
 image: images/contact.svg
 
 ---
-Do customers cringe or respond happily to your social media posts? Send me an email and let's see if we're a working fit.
+Do customers skip past your ads on their Newsfeeds? Low engagement on your posts? Fans unfollowing your page? Let's fix that.
