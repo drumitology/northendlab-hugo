@@ -1,7 +1,7 @@
-tools:
+work:
 # tool category
 - title: Dev Tools
-  tool:
+  work:
   # tool loop in tool category
   - name: Git
     image: "/images/tools/Git.png"
@@ -26,7 +26,7 @@ tools:
 
 # tool category
 - title: Design Tools
-  tool:
+  work:
   # tool loop in tool category
   - name: Sketch
     image: "/images/tools/sketch.png"
@@ -51,7 +51,7 @@ tools:
 
 # tool category
 - title: Digital Marketing Tools
-  tool:
+  work:
   # tool loop in tool category
   - name: Mailchimp
     image: "/images/tools/MailChimp.jpg"
